@@ -1,0 +1,38 @@
+/* Estilos para el componente Home */
+.home-container {
+  text-align: center;
+  padding: 20px;
+  background-color: #86c1eb; /* Cambia el color de fondo según tus preferencias */
+}
+
+.home-title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #333; /* Cambia el color del título según tus preferencias */
+}
+
+.home-subtitle {
+  font-size: 25px;
+  color: #666; /* Cambia el color del subtitulo según tus preferencias */
+}
+
+.logout-button {
+  background-color: #007bff; /* Color de fondo azul */
+  color: white; /* Color del texto blanco */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.logout-button:hover {
+  background-color: #0056b3; /* Cambia el color al pasar el mouse */
+}
+
+/* Estilos para la imagen del logo */
+.home-container img {
+  max-width: 300px; /* Ajustar la imagen al ancho de 300px */
+  height: auto; /* Mantener la proporción de la imagen */
+  margin-bottom: 20px; /* Espaciado inferior */
+}
