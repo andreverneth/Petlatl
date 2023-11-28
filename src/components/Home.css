@@ -2,7 +2,7 @@
 .home-container {
   text-align: center;
   padding: 20px;
-  background-color: #86c1eb; /* Cambia el color de fondo según tus preferencias */
+  background-color: #b543c7; /* Cambia el color de fondo según tus preferencias */
 }
 
 .home-title {
@@ -35,4 +35,10 @@
   max-width: 300px; /* Ajustar la imagen al ancho de 300px */
   height: auto; /* Mantener la proporción de la imagen */
   margin-bottom: 20px; /* Espaciado inferior */
+}
+
+.input-wrapper {
+  position: center;
+  width: 120px;
+  
 }
